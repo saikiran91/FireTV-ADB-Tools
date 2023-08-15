@@ -8,7 +8,7 @@ A macOS script for managing ADB connections and Proxy setting on Fire TV.
 ## Features
 
 - Find and connect to Fire TV via ADB.
-- Set up Proxy settings.
+- Set up Proxy settings. (Automatically finds your MAC IP and prepopulates)
 - Verify Proxy stting
 - Delete Proxy settings.
 - Launch Fire TV's ControlPanel.
