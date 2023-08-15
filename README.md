@@ -24,5 +24,5 @@ A macOS script for managing ADB connections and Proxy setting on Fire TV.
 - [ ] IntelliJ plugin.
 - [ ] Proper UI using a UI framework to rewrite the script for enhanced usability and cross-platform 
 support.
-- [] Add more ADB commends specifc to Fire TV
+- [ ] Add more ADB commends specifc to Fire TV
 
