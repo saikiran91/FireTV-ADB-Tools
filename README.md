@@ -2,6 +2,9 @@
 
 A macOS script for managing ADB connections and Proxy setting on Fire TV.
 
+## Screenshot
+<img width="378" alt="image" src="https://github.com/saikiran91/FireTV-ADB-Tools/assets/3991577/47bd56ec-0e67-4f75-8192-4ce34bf50d85">
+
 ## Features
 
 - Find and connect to Fire TV via ADB.
